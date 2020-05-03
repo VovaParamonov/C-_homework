@@ -20,7 +20,6 @@ namespace sem_2__laba_2_lesson_6
             task4();
             task5();
             task6();
-            task7();
 
             //System.Console.WriteLine("Test");
             System.Console.ReadKey();
