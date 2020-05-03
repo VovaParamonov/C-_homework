@@ -44,12 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Console.cs" />
+    <Compile Include="countries.cs" />
     <Compile Include="enums\carrier.cs" />
     <Compile Include="enums\manufacturers.cs" />
     <Compile Include="enums\processors.cs" />
     <Compile Include="Games.cs" />
     <Compile Include="iConsole.cs" />
     <Compile Include="IHack.cs" />
+    <Compile Include="IManufacturer.cs" />
+    <Compile Include="Manufacturer.cs" />
     <Compile Include="models.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

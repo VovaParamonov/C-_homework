@@ -1,0 +1,7 @@
+D:\Univer\C#\C#_homework\sem_2__laba_2_lesson_6\sem_2__laba_2_lesson_6\bin\Debug\sem_2__laba_2_lesson_6.exe.config
+D:\Univer\C#\C#_homework\sem_2__laba_2_lesson_6\sem_2__laba_2_lesson_6\bin\Debug\sem_2__laba_2_lesson_6.exe
+D:\Univer\C#\C#_homework\sem_2__laba_2_lesson_6\sem_2__laba_2_lesson_6\bin\Debug\sem_2__laba_2_lesson_6.pdb
+D:\Univer\C#\C#_homework\sem_2__laba_2_lesson_6\sem_2__laba_2_lesson_6\obj\Debug\sem_2__laba_2_lesson_6.csprojAssemblyReference.cache
+D:\Univer\C#\C#_homework\sem_2__laba_2_lesson_6\sem_2__laba_2_lesson_6\obj\Debug\sem_2__laba_2_lesson_6.csproj.CoreCompileInputs.cache
+D:\Univer\C#\C#_homework\sem_2__laba_2_lesson_6\sem_2__laba_2_lesson_6\obj\Debug\sem_2__laba_2_lesson_6.exe
+D:\Univer\C#\C#_homework\sem_2__laba_2_lesson_6\sem_2__laba_2_lesson_6\obj\Debug\sem_2__laba_2_lesson_6.pdb

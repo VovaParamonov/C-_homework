@@ -9,6 +9,8 @@ namespace sem_2__laba_2_lesson_6
 {
     class Console : IConsole, IHack
     {
+        static private int ConsolesCounter = 0; 
+
         static public Console generate()
         {
             return new Console();
@@ -17,16 +19,18 @@ namespace sem_2__laba_2_lesson_6
         static public List<Console> generate100()
         {
             List<Console> list = new List<Console>();
-            for (int i = 0; i < 100; i++) list.Add(new Console());
+            for (int i = 0; i < 100; i++) {
+                list.Add(new Console());
+            }
             return list;
         }
 
         Console()
         {
-            Random rand = new Random();
+            Random rand = new Random(Console.ConsolesCounter);
 
-            Proc = (processors)rand.Next(3);
-            Manuf = (manufacturers)rand.Next(5);
+            Proc = (processors)rand.Next(2);
+            Manuf = (manufacturers)rand.Next(4);
             car = (carrier)rand.Next(4);
 
             switch(Manuf)
@@ -43,6 +47,9 @@ namespace sem_2__laba_2_lesson_6
                 case manufacturers.sony:
                     model = Models.sonyModels[rand.Next(Models.sonyModels.Length)];
                     break;
+                default:
+                    model = "Model of unknown manufacture";
+                    break;
             } // Задание модели на основе производителя
 
             switch(rand.Next(3))
@@ -58,7 +65,7 @@ namespace sem_2__laba_2_lesson_6
                     break;
             } // Задание случайного значения объема диска
 
-            for(int i = 0; i <= Games.games.Length; i++)
+            for(int i = 0; i <= Games.games.Length - 1; i++)
             {
                 Random subRandom = new Random(i);
                 string randGame;
@@ -71,6 +78,8 @@ namespace sem_2__laba_2_lesson_6
             }
 
             accounts.Add("user");
+
+            Console.ConsolesCounter++;
         }
 
         Console(processors Proc, manufacturers Manuf, carrier car, List<string> games, int discSize, List<string> accounts )
@@ -81,6 +90,8 @@ namespace sem_2__laba_2_lesson_6
             this.games = games;
             this.discSize = discSize;
             this.accounts = accounts;
+
+            Console.ConsolesCounter++;
         }
 
         public processors Proc { get; private set; }

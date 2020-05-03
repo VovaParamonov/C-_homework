@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace sem_2__laba_2_lesson_6.enums
 {
-    enum processors
+    enum countries
     {
-        Intel = 0,
-        AMD
+        Russia,
+        USA,
+        Canada,
+        France,
+        Japan
     }
 }

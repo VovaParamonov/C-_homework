@@ -1,7 +1,0 @@
-D:\Univer\C#\sem_2__laba_1\sem_2__laba_1\bin\Debug\sem_2__laba_1.exe.config
-D:\Univer\C#\sem_2__laba_1\sem_2__laba_1\bin\Debug\sem_2__laba_1.exe
-D:\Univer\C#\sem_2__laba_1\sem_2__laba_1\bin\Debug\sem_2__laba_1.pdb
-D:\Univer\C#\sem_2__laba_1\sem_2__laba_1\obj\Debug\sem_2__laba_1.csprojAssemblyReference.cache
-D:\Univer\C#\sem_2__laba_1\sem_2__laba_1\obj\Debug\sem_2__laba_1.csproj.CoreCompileInputs.cache
-D:\Univer\C#\sem_2__laba_1\sem_2__laba_1\obj\Debug\sem_2__laba_1.exe
-D:\Univer\C#\sem_2__laba_1\sem_2__laba_1\obj\Debug\sem_2__laba_1.pdb
