@@ -1,0 +1,11 @@
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\bin\Debug\sem_2_laba_3.exe.config
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\bin\Debug\sem_2_laba_3.exe
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\bin\Debug\sem_2_laba_3.pdb
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\obj\Debug\sem_2_laba_3.csprojAssemblyReference.cache
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\obj\Debug\sem_2_laba_3.csproj.CoreCompileInputs.cache
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\obj\Debug\sem_2_laba_3.exe
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\obj\Debug\sem_2_laba_3.pdb
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\bin\Debug\nunit.framework.dll
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\bin\Debug\nunit.framework.pdb
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\bin\Debug\nunit.framework.xml
+D:\Univer\C#\sem_2_laba_3\sem_2_laba_3\obj\Debug\sem_2_laba_3.csproj.CopyComplete

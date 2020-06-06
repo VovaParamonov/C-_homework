@@ -1,0 +1,13 @@
+D:\Univer\C#\sem_2_laba_3\UnitTests\bin\Debug\UnitTests.dll
+D:\Univer\C#\sem_2_laba_3\UnitTests\bin\Debug\UnitTests.pdb
+D:\Univer\C#\sem_2_laba_3\UnitTests\bin\Debug\nunit.framework.dll
+D:\Univer\C#\sem_2_laba_3\UnitTests\bin\Debug\sem_2_laba_3.exe
+D:\Univer\C#\sem_2_laba_3\UnitTests\bin\Debug\sem_2_laba_3.pdb
+D:\Univer\C#\sem_2_laba_3\UnitTests\bin\Debug\sem_2_laba_3.exe.config
+D:\Univer\C#\sem_2_laba_3\UnitTests\bin\Debug\nunit.framework.pdb
+D:\Univer\C#\sem_2_laba_3\UnitTests\bin\Debug\nunit.framework.xml
+D:\Univer\C#\sem_2_laba_3\UnitTests\obj\Debug\UnitTests.csprojAssemblyReference.cache
+D:\Univer\C#\sem_2_laba_3\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\Univer\C#\sem_2_laba_3\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+D:\Univer\C#\sem_2_laba_3\UnitTests\obj\Debug\UnitTests.dll
+D:\Univer\C#\sem_2_laba_3\UnitTests\obj\Debug\UnitTests.pdb
